@@ -66,8 +66,8 @@ Run the notebooks
 ## Project structure
 
 ```
-├── images/                  # Brightfield .stk stacks
-├── masks/                   # Fluorescence-derived binary masks
+├── images/                  # Brightfield .stk stacks (raw data not uploaded)
+├── masks/                   # Fluorescence-derived binary masks (raw data not uploaded, generate using the first notebook)
 ├── unet_results_nobs/       # Model outputs and figures
 ├── 01_mask_generation.ipynb
 └── 02_unet_patch_training.ipynb
