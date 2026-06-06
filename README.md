@@ -23,7 +23,7 @@ Trains a U-Net convolutional neural network to predict vacuole locations from br
 | `.stk` brightfield stacks | 5-slice z-stacks; central slices are projected to 2D |
 | `.tif` fluorescence masks | Binary masks generated in Notebook 1 |
 
-Five different images are used: 4 are used for training/validation, and one is held-out as a test set.
+For this model, I used five different images of yeast cells: 4 are used for training/validation, and one is held-out as a test set. The images are not included in this repository. If you want to use your own data, please set the paths in the configuration section of each notebook.
 
 ## Model Description
 
