@@ -1,6 +1,6 @@
 # Vacuole Segmentation with U-Net
 
-Automatic segmentation of vacuoles in brightfield microscopy images using a U-Net trained using fluorescence-derived masks.
+Automatic segmentation of vacuoles in brightfield microscopy images using a U-Net trained with fluorescence-derived masks.
 
 ## Description
 
